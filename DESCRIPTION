@@ -1,0 +1,14 @@
+Package: nameparser
+Title: Taxonomic name parser
+Version: 0.0.0.99
+Date: 2014-11-19
+Authors@R: person("Scott", "Chamberlain", role = c("aut", "cre"),
+    email = "myrmecocystus@gmail.com")
+Description: Taxon name parser
+License: MIT + file LICENSE
+URL: https://github.com/sckott/nameparser
+BugReports: https://github.com/sckott/nameparser/issues
+LazyData: true
+Encoding: UTF-8
+Imports:
+    httr
